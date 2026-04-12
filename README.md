@@ -1,6 +1,6 @@
 # Hey, I'm Anthony 👋
 
-Indie developer from Malaysia, building and shipping apps under **Anini**. I enjoy going from idea to launch — games, utilities, AI-powered tools, and finance apps. Currently at 6 published apps across iOS and Android.
+Indie developer from Malaysia, building and shipping apps under **Anini**. I enjoy going from idea to launch — games, utilities, AI-powered tools, and finance apps. Currently at 7 published apps across iOS and Android.
 
 I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **Next.js** for web.
 
@@ -15,6 +15,7 @@ I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **N
 | **Waitopia** | Focus & productivity timer — transform waiting into worlds | [iOS](https://apps.apple.com/us/app/waitopia-gamified-focus-timer/id6759971344) · [Android](https://play.google.com/store/apps/details?id=anini.waitopia) |
 | **[Sound Meter & Level](https://github.com/atzr95/AniniTools)** | Sound meter, level & toolbox | [iOS](https://apps.apple.com/us/app/sound-meter-level-tools/id6755042830) · [Android](https://play.google.com/store/apps/details?id=anini.aninitools) |
 | **Decidr** | Decision maker with 7 randomization tools — dice, wheel, coin flip & more | [iOS](https://apps.apple.com/us/app/decidr-decision-maker-tools/id6756568546) · [Android](https://play.google.com/store/apps/details?id=anini.decido) |
+| **Dazlo** | Party games for adults | [iOS](https://apps.apple.com/us/app/dazlo-party-games-for-adults/id6761824962) · [Android](https://play.google.com/store/apps/details?id=anini.dazlo) |
 | **[Pantaulah](https://github.com/atzr95/pantaulah)** | Real-time data dashboard for Malaysia — 50+ metrics across 16 states | [Web](https://pantaulah.com) |
 
 ---
@@ -24,7 +25,7 @@ I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **N
 | App | What it does | Platform |
 |-----|-------------|----------|
 | **FreshGreet** | AI greeting image creator for WhatsApp & Telegram | iOS · Android |
-| **pxlry** | Fast offline batch image optimizer | Web |
+| **pxlry** | Fast offline batch image optimizer | Windows · Mac |
 | **DevScreens** | App store screenshot generator | Web |
 
 ---
