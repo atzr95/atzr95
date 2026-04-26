@@ -11,7 +11,7 @@ I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **N
 | App | What it does | Links |
 |-----|-------------|-------|
 | **TwistGrid** | Block puzzle game with rotation — the anti-Block Blast | [iOS](https://apps.apple.com/us/app/twistgrid-block-puzzle-game/id6760101487) · [Android](https://play.google.com/store/apps/details?id=anini.twistgrid) |
-| **8udget** | AI-powered budget & expense tracker | [iOS](https://apps.apple.com/us/app/8udget-budget-money-tracker/id6503930426) · [Android](https://play.google.com/store/apps/details?id=com.anini.budget) · [Web](https://8udget.my) |
+| **8udget** | AI-powered budget & expense tracker | [iOS](https://apps.apple.com/us/app/8udget-budget-money-tracker/id6503930426) · [Mac](https://apps.apple.com/us/app/8udget-budget-money-tracker/id6503930426) · [Android](https://play.google.com/store/apps/details?id=com.anini.budget) · [Web](https://8udget.my) |
 | **Waitopia** | Focus & productivity timer — transform waiting into worlds | [iOS](https://apps.apple.com/us/app/waitopia-gamified-focus-timer/id6759971344) · [Android](https://play.google.com/store/apps/details?id=anini.waitopia) |
 | **[Sound Meter & Level](https://github.com/atzr95/AniniTools)** | Sound meter, level & toolbox | [iOS](https://apps.apple.com/us/app/sound-meter-level-tools/id6755042830) · [Android](https://play.google.com/store/apps/details?id=anini.aninitools) |
 | **Decidr** | Decision maker with 7 randomization tools — dice, wheel, coin flip & more | [iOS](https://apps.apple.com/us/app/decidr-decision-maker-tools/id6756568546) · [Android](https://play.google.com/store/apps/details?id=anini.decido) |
