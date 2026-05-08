@@ -18,7 +18,7 @@ I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **N
 | **Dazlo** | Party games for adults | [iOS](https://apps.apple.com/us/app/dazlo-party-games-for-adults/id6761824962) · [Android](https://play.google.com/store/apps/details?id=anini.dazlo) |
 | **FreshGreet** | AI greeting image creator for WhatsApp & Telegram | [iOS](https://apps.apple.com/us/app/freshgreet-ai-greeting-cards/id6760876515) · [Android](https://play.google.com/store/apps/details?id=anini.freshgreet) |
 | **[Pantaulah](https://github.com/atzr95/pantaulah)** | Real-time data dashboard for Malaysia — 50+ metrics across 16 states | [Web](https://pantaulah.com) |
-| **Slumby** | Beautiful ambient sound mixer for sleep & focus — layer rain, brown noise, fireplace into custom soundscapes | [iOS](https://apps.apple.com/us/app/slumby-sleep-sounds-focus/id6762368665) · Android |
+| **Slumby** | Beautiful ambient sound mixer for sleep & focus — layer rain, brown noise, fireplace into custom soundscapes | [iOS](https://apps.apple.com/us/app/slumby-sleep-sounds-focus/id6762368665) · [Android](https://play.google.com/store/apps/details?id=anini.drowse) |
 
 ---
 
