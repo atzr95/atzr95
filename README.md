@@ -1,6 +1,6 @@
 # Hey, I'm Anthony 👋
 
-Indie developer from Malaysia, building and shipping apps under **Anini**. I enjoy going from idea to launch — games, utilities, AI-powered tools, and finance apps. Currently at 8 published apps across iOS and Android.
+Indie developer from Malaysia, building and shipping apps under **Anini**. I enjoy going from idea to launch — games, utilities, AI-powered tools, and finance apps. Currently at 9 published apps across iOS and Android.
 
 I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **Next.js** for web.
 
@@ -19,6 +19,7 @@ I work mostly with **Flutter** and **Rust** for mobile, and **TypeScript** / **N
 | **FreshGreet** | AI greeting image creator for WhatsApp & Telegram | [iOS](https://apps.apple.com/us/app/freshgreet-ai-greeting-cards/id6760876515) · [Android](https://play.google.com/store/apps/details?id=anini.freshgreet) |
 | **[Pantaulah](https://github.com/atzr95/pantaulah)** | Real-time data dashboard for Malaysia — 50+ metrics across 16 states | [Web](https://pantaulah.com) |
 | **Slumby** | Beautiful ambient sound mixer for sleep & focus — layer rain, brown noise, fireplace into custom soundscapes | [iOS](https://apps.apple.com/us/app/slumby-sleep-sounds-focus/id6762368665) · [Android](https://play.google.com/store/apps/details?id=anini.drowse) |
+| **Reelaxed** | Cozy fishing game — calm cast-and-reel, fish encyclopedia, no ad-spam | [iOS](https://apps.apple.com/us/app/reelaxed-cozy-fishing-game/id6788785901) · [Android](https://play.google.com/store/apps/details?id=com.anini.reelaxed) |
 
 ---
 
