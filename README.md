@@ -1,6 +1,6 @@
 # Hi, I'm Anthony
 
-I'm an indie developer in Malaysia. I make apps under the name **Anini**: games, small utilities, a budget tracker, and a few things that use AI. Nine of them are live on iOS and Android so far.
+I'm an indie developer in Malaysia. I make apps under the name **Anini**: games, small utilities, a budget tracker, and a few things that use AI. Ten of them are live on iOS and Android so far.
 
 On mobile I mostly use **Flutter** and **Rust**. On the web it's **TypeScript** and **Next.js**.
 
@@ -10,6 +10,7 @@ On mobile I mostly use **Flutter** and **Rust**. On the web it's **TypeScript** 
 
 | App | What it does | Links |
 |-----|-------------|-------|
+| <img src="icons/punchpay.png" width="20" height="20"> **Punchpay: Hours & Pay Tracker** | Track work hours and estimate your next paycheck, including overtime and shift extras | [iOS](https://apps.apple.com/us/app/punchpay-hours-pay-tracker/id6833027110) · [Android](https://play.google.com/store/apps/details?id=anini.punchpay) |
 | <img src="icons/twistgrid.png" width="20" height="20"> **TwistGrid** | Block puzzle where you can rotate pieces before you drop them | [iOS](https://apps.apple.com/us/app/twistgrid-block-puzzle-game/id6760101487) · [Android](https://play.google.com/store/apps/details?id=anini.twistgrid) |
 | <img src="icons/8udget.png" width="20" height="20"> **8udget** | Budget and expense tracker. Works offline and can read your receipts | [iOS](https://apps.apple.com/us/app/8udget-budget-money-tracker/id6503930426) · [Mac](https://apps.apple.com/us/app/8udget-budget-money-tracker/id6503930426) · [Android](https://play.google.com/store/apps/details?id=com.anini.budget) · [Web](https://8udget.my) |
 | <img src="icons/waitopia.png" width="20" height="20"> **Waitopia** | Focus timer. Stay off your phone and a little world grows | [iOS](https://apps.apple.com/us/app/waitopia-gamified-focus-timer/id6759971344) · [Android](https://play.google.com/store/apps/details?id=anini.waitopia) |
